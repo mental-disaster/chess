@@ -1,9 +1,19 @@
 # chess
 
+---------------------------------------------------------
+
+-this project is find out who is winner using ELO rating and rating difference
+
+---------------------------------------------------------
+
 you can get full data on
 https://www.kaggle.com/timhanewich/5-million-chess-game-results-november-2019
 
-i use only white&black ELO rating as feature and use result as label
+first time, I use only white&black ELO rating as feature and use result as label
+
+but it was not effective to find winner without using other fiture
+
+so I use withe&black ELO rating difference
 
 you may need to install some matlab toolbox
 
@@ -17,4 +27,7 @@ bigdata_svm.m is code of ML
 
 ------------------------------------------------------------
 
-if you don't want to train model then comment out line4 to 10 on bigdata_svm.m 
+if you don't want to train model then comment out line4 to 10 on bigdata_svm.m
+
+------------------------------------------------------------
+
