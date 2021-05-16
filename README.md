@@ -1,6 +1,5 @@
 # chess
 
----------------------------------------------------------
 
 - this project is find out who is winner using ELO rating and rating difference
 
