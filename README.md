@@ -30,4 +30,4 @@ if you don't want to train model then comment out line4 to 10 on bigdata_svm.m
 
 ------------------------------------------------------------
 
-you can refer to '체스.pdf' and '체스_파이널.pdf' for detail result and process
+you can refer to '체스.pdf' and '체스_파이널.pdf' for detail process and result
