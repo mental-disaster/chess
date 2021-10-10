@@ -10,7 +10,7 @@ https://www.kaggle.com/timhanewich/5-million-chess-game-results-november-2019
 
 first time, I use only white&black ELO rating as feature and use result as label
 
-but it was not effective to find winner without using other fiture
+but it was not effective to find winner without using other feature
 
 so I use withe&black ELO rating difference
 
