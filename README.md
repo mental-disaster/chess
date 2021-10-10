@@ -8,13 +8,13 @@
 you can get full data on
 https://www.kaggle.com/timhanewich/5-million-chess-game-results-november-2019
 
+you may need to install some matlab toolbox
+
 first time, I use only white&black ELO rating as feature and use result as label
 
 but it was not effective to find winner without using other feature
 
 so I use withe&black ELO rating difference
-
-you may need to install some matlab toolbox
 
 ------------------------------------------------------------
 
